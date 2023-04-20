@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Code_C_Primer_plus",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Code_C_Primer_plus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Code_C_Primer_plus-Debug-774c94ad15d2a51acfa6.json",
+					"name" : "Code_C_Primer_plus",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/VM/GitHub/Code_C_Primier_plus_and_Pointers_on_C/\u57fa\u672c\u6570\u636e\u7c7b\u578b/Code_C_Primer_plus/cmake-build-debug",
+		"source" : "/Volumes/VM/GitHub/Code_C_Primier_plus_and_Pointers_on_C/\u57fa\u672c\u6570\u636e\u7c7b\u578b/Code_C_Primer_plus"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
